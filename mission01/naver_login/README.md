@@ -13,9 +13,9 @@
 <br>
 
 # 결과
-<p align="center">
+
 ![naverlogin_result](https://github.com/chowonn/home-work/assets/70478015/075bc3ab-23a5-4cbe-a0dd-da9662080216)
-</p>
+
 
 
 
