@@ -10,6 +10,12 @@
 - [x] 재사용 가능한 함수를 분리하고 함수를 중심으로 설계하는 방법에 대해 학습합니다.
 
 
+<br>
+
+# 결과
+<p align="center">
+![naverlogin_result](https://github.com/chowonn/home-work/assets/70478015/075bc3ab-23a5-4cbe-a0dd-da9662080216)
+</p>
 
 
 
