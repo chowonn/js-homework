@@ -19,7 +19,7 @@ p# 네이버 로그인 페이지 구현
 ( 이메일 / 비밀번호의 정규식 형태에 일치하거나, input에서 텍스트가 사라질 경우 => remove 'is--invalid'  <br>
  이메일 / 비밀번호의 정규식 형태에 일치하지 않을 경우 => add 'is--invalid' )  
  <br>
- - 로그인 버튼 클릭 시 inputEmail.value === user.id && inputPw.value === user.pw 와 같이 두 값이 일치할 경우 welcome.html 페이지로 이동합니다. <br>
+- 로그인 버튼 클릭 시 inputEmail.value === user.id && inputPw.value === user.pw 와 같이 두 값이 일치할 경우 welcome.html 페이지로 이동합니다. <br>
  (만일 두 값이 일치하지 않을 경우, alert 창을 띄워주고 inputPw.value=null 로 비밀번호 인풋 값을 초기화시킵니다. )
 
 
