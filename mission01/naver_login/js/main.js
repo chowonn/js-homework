@@ -56,24 +56,3 @@ loginBtn.addEventListener('click',(event) => {
     inputPw.value=null;
   }
 })
-
-
-
-
-
-
-
-
-
-
-
-//인풋 값 확인하는 방법 : $0.value
-
-/*
-
-1. email 정규표현식을 사용한 validation
-2. pw 정규표현식을 사용한 validation
-3. 상태 변수 관리
-*/
-
-
